@@ -1,0 +1,1 @@
+Here is the result: I am from first.txt., I am from second.txt.
